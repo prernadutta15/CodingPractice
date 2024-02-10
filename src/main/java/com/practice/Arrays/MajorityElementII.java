@@ -1,7 +1,7 @@
 package com.practice.Arrays;
 
 /**
- * @author salman.iraqui
+ * @author prerna.dutta
  *
  */
 
